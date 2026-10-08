@@ -1,0 +1,16 @@
+{
+  "owner": {
+    "username": "ibrahimmorgan",
+    "email": "ibrahimmorgan@users.noreply.github.com"
+  },
+  "records": {
+    "MX": [
+      "mx1.forwardemail.net",
+      "mx2.forwardemail.net"
+    ],
+    "TXT": [
+      "forward-email=baradok609@gmail.com",
+      "v=spf1 include:spf.forwardemail.net ~all"
+    ]
+  }
+}
